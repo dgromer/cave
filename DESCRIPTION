@@ -1,0 +1,11 @@
+Package: cave
+Type: Package
+Title: Classes and methods for analyzing VR experiments
+Version: 0.1.0
+Authors@R: person("Daniel", "Gromer", email = "dgromer@mailbox.org", role = c("aut", "cre"))
+Description: Classes and methods for analyzing VR experiments
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
