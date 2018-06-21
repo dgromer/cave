@@ -7,9 +7,9 @@
 x \%--\% ...
 }
 \arguments{
-\item{a}{an object of class `point`}
+\item{a}{an object of class `point2d` or `point3d`}
 
-\item{b}{an object of class `point`}
+\item{b}{an object of class `point2d` or `point3d`}
 }
 \description{
 Calculate distance between two points
